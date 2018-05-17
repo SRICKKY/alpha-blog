@@ -1,1 +1,1 @@
-This is thre repository for Blog Application for RoR developers
+This is the repository for Blog Application for RoR developers
